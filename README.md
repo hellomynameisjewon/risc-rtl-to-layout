@@ -9,7 +9,7 @@ SRAM으로 들어가고 나가는 경로가 모두 반 주기(1.0 ns) 안에 끝
 
 🎓 **수료증: Synopsys RTL to GDSII Program "ASIC Design" (청주대학교, 2026)** · [PDF](certificate.pdf)
 
-<img src="images/certificate.png" width="480">
+<img src="images/KakaoTalk_20261125_182156209.png" width="480">
 
 ![flow](images/01_flow.png)
 
